@@ -1,0 +1,30 @@
+Remove signup page
+Make User Administration and Admin Trust one tab and only accessible by the super admin i.e. admin@digisanduk
+
+Super Admin:
+Can add an employee and assign to organisation
+Can assign or change admin of an organisation
+Modify or delete admin
+Edit self Profile: name mail id and password
+Add Organisation 
+
+
+Admin:
+Can add an employee and assign to organisation
+Under Data Sharing, can create a request, approve/reject the request. the approve/reject must be a toggle switch
+Send Request page must be a different page and the toggle switch must be under Request Status.
+Edit self Profile: name mail id and password
+Can perform integration of SIEM
+Can View Audit log
+Can view Monitoring Tabc
+
+Employee:
+Edit self Profile: name mail id and password
+Can only share data and view the shared data
+
+
+
+
+
+colour code to trust level
+delete user at org lvl
